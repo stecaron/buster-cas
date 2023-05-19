@@ -1,0 +1,6 @@
+
+data/pdf
+
+*.DS_store
+
+__pycache__/
